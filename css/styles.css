@@ -16,6 +16,10 @@ body {
     font-size: 14px;
 }
 
+.header {
+    border: 1px solid #ECECEC;
+}
+
 .container{
     width: 1230px;
     padding:  0 15px 0 15px;
